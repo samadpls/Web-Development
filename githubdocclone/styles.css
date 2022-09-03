@@ -1,0 +1,43 @@
+@media (max-width: 1199px) and (min-width: 769px) {
+
+    #main-docs{
+        width:675px;
+      }
+      .navbar{
+        width:633px;
+      }
+    }
+  body{
+    background-color: #0d1117;
+    color:white;
+    font-family:verdana;
+  
+  }  
+  .nav-link{
+    color:white;
+    padding:10px;
+    margin-bottom: 110px;
+  }
+  #navbar{ position: relative;
+      min-width: 290px;
+      top: 0px;
+      left: 0px;
+      width: 300px;
+      height: 100%;
+      border-right: solid;
+      border-color: rgba(0, 22, 22, 0.4);
+  }
+  
+  #main-doc {
+      position: absolute;
+      margin-left: 310px;
+      padding: 20px;
+      margin-top:-200px;
+      margin-bottom: 110px;
+  }
+  header{
+    font-size:24px;
+    color:#c9d1d9;
+    font-weight: bold;
+    font-family:sans serif;
+  }
